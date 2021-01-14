@@ -1,0 +1,16 @@
+{
+  "name": "code-challenge",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "cypress": "^5.6.0"
+  },
+  "description": "abc UI code challenge",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "./node_modules/.bin/cypress open",
+    "test": "./node_modules/.bin/cypress run -b chrome"
+  },
+  "author": "ABC",
+  "license": "ISC"
+}

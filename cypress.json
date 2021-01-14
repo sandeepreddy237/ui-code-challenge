@@ -1,0 +1,10 @@
+{
+  "env": {
+    "BASE_URL": "https://mylogin-stage.abc.net.au/account/index.html"
+  },
+  "defaultCommandTimeout": 10000,
+  "viewportWidth": 1650,
+  "viewportHeight": 1080,
+  "chromeWebSecurity": false,
+  "projectId": "9fjm55"
+}

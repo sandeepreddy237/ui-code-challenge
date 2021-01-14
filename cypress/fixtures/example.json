@@ -1,0 +1,7 @@
+{
+  "name": "Using fixtures to represent data",
+  "verifiedEmail": "hhhh@gmail.com",
+  "unVerifiedEmail": "iiiiii@gmail.com",
+  "password": "Welcome1234!",
+  "body": "Fixtures are a great way to mock data for responses to routes"
+}
